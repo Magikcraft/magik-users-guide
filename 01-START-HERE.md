@@ -13,5 +13,5 @@ Now go to Minecraft, and type: `/cast hw`.
 
 Magik!
 
-Once you get this to work, move on to the next step.
+Once you get this to work, move on to [the next step](./02-NEXT-STEP).
 
