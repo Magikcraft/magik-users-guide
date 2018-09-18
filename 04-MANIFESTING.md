@@ -52,3 +52,7 @@ function main() {
 ```
 
 Try that!
+
+To get an idea of the kinds of things you can add to your inventory, [see this list](https://hub.spigotmc.org/javadocs/bukkit/org/bukkit/Material.html).
+
+Not everything on there will work, but that is part of the fun of learning magik - and why it is so mysterious to those who have not studied and learned its ways...
