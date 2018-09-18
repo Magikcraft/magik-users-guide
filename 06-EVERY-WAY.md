@@ -18,21 +18,8 @@ function main(power: number | string = 50) {
 	 */
 	jumppower = Math.min(jumppower, 100)
 	jumppower = Math.max(jumppower, -100)
-	/**
-	 * Here we scale the jumppower. With jumpPowerScalingFactor set to 100
-	 * there is no scaling. If you set it to 50, then the player can jump up
-	 * to a maximum of 50% of the total jump power potential.
-	 * If you get the jumpPowerScalingFactor from a character or level attribute,
-	 * this allows the jumping power of the player to increase as their magikal
-	 * prowess increases, etc...
-	 */
-	const jumpPowerScalingFactor = 100
 	const BukkitVelocityScaleFactor = 3.9 // Max valid velocity
-	const jumpVelocity =
-		jumppower /
-		100 *
-		(jumpPowerScalingFactor / 100) *
-		BukkitVelocityScaleFactor
+	const jumpVelocity = jumppower / 100 * BukkitVelocityScaleFactor
 	const yDeltaV = jumpVelocity
 	const xDeltaV = 0.0
 	const zDeltaV = 0.0
@@ -41,4 +28,4 @@ function main(power: number | string = 50) {
 }
 ```
 
-See if you can figure out how to make a version that moves you in a different direction.
+See if you can figure out how to change it to move you in a different direction.

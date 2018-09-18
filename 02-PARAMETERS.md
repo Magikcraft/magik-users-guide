@@ -41,4 +41,6 @@ Save the spell, then go to Minecraft and type: `/cast hw1`.
 
 What do you see?
 
-Your spell can take parameters, and you need to pass one in. To do that, go on to [the next step](./03-STEP-THREE).
+You might see something like: `Hello undefined`.
+
+Your spell can take parameters, and now you need to pass one in. To find out how to do that, go on to [the next step](./03-PARAMETERS-2).
