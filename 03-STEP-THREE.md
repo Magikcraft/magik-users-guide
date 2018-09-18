@@ -34,3 +34,5 @@ function main(...name) {
 }
 ```
 Now you can give it as many names as you want!
+
+Now move on to [the next step](./04-MANIFESTING).
