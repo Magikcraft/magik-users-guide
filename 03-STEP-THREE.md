@@ -15,4 +15,22 @@ Parameters are separated by spaces, so you can't pass a sentence in as a single 
 You can make your spell take more than one parameter, like this:
 
 ```javascript
-cons
+const magik = magikcraft.io
+
+function main(firstname, lastname) {
+  magik.dixit('Hello ' + firstname + ' ' + lastname)
+}
+```
+
+Try that spell. When you cast it, pass in two names, like this: `/cast hw1 Jane Doe!`
+
+You can make a spell that reads *all the parameters*, like this:
+
+```javascript
+const magik = magikcraft.io
+
+function main(...name) {
+  magik.dixit('Hello ' + name.join(' '))
+}
+```
+
