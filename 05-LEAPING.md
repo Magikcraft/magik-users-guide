@@ -23,3 +23,5 @@ Try that out.
 Try it with different numbers, or write a version of the spell that takes a number as a parameter and passes it in to `magik.exsultus`.
 
 When you've done that, I'll show you how `magik.exsultus` works.
+
+[Check it out!](./06-EVERY-WAY)
