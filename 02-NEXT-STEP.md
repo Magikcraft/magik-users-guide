@@ -41,4 +41,4 @@ Save the spell, then go to Minecraft and type: `/cast hw1`.
 
 What do you see?
 
-Your spell can take parameters, and you need to pass one in. To do that, go on to the next step.
+Your spell can take parameters, and you need to pass one in. To do that, go on to [the next step](./03-STEP-THREE).
