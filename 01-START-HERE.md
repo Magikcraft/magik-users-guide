@@ -7,7 +7,7 @@ const magik = magikcraft.io
 
 magik.dixit('Hello World!')
 ```
-Type this spell in your spellbook at [play.magikcraft.io](play.magikcraft.io), give it a name at the top - `hw` - then click the Save button.
+Type this spell in your spellbook at [play.magikcraft.io](https://play.magikcraft.io), give it a name at the top - `hw` - then click the Save button.
 
 Now go to Minecraft, and type: `/cast hw`.
 
