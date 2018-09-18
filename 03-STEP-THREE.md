@@ -33,4 +33,4 @@ function main(...name) {
   magik.dixit('Hello ' + name.join(' '))
 }
 ```
-
+Now you can give it as many names as you want!
