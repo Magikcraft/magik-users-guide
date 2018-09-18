@@ -10,7 +10,7 @@ Here is the source code for `magik.exsultus`:
 function main(power: number | string = 50) {
 	let jumppower = parseFloat((power as string))
 	if (isNaN(jumppower)) {
-		return magik.dixit('You need to pass in a number to exsultus!'))
+		return magik.dixit('You need to pass in a number to exsultus!')
 	}
 	/**
 	 * The range of jumppower is -100% to 100%. Values less than zero cause a
