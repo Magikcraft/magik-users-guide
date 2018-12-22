@@ -45,7 +45,7 @@ Save the spell, then go to Minecraft and type: `/cast hw1`.
 
 What do you see?
 
-You might see something like: `Hello undefined`.
+You should see something like: `Hello undefined`.
 
 When you cast a spell in Minecraft that takes ingredients, you need to give it specific ingredients to use. When you pass the ingredients in as you cast the spell, they are called _arguments_.
 

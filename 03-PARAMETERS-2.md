@@ -22,7 +22,9 @@ function main(firstname, lastname) {
 }
 ```
 
-Try that spell. When you cast it, pass in two names, like this: `/cast hw1 Jane Doe!`
+Try that spell. When you cast it, pass in two names, like this: `/cast hw1 Jane Doe`
+
+Try it with your name instead of Jane Doe.
 
 You can make a spell that reads *all the parameters*, like this:
 
