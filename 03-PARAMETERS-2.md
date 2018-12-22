@@ -1,4 +1,4 @@
-# Passing in parameters
+# Passing in parameters as arguments
 
 In the previous step you created a spell that can take a parameter (ingredient).
 

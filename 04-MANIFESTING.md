@@ -17,8 +17,6 @@ function main() {
 }
 ```
 
-*const* is a special magical word for things that don't change. It is short for _constant_.
-
 The magical word *require* brings in more magic that you can use.
 
 Now you have magic for items and for the Minecraft inventory. The next thing you want to do in your spell is to get _your_ inventory. You do it like this:
